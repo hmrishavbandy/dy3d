@@ -3,6 +3,19 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Extras
+wandb/
+meshes/
+*.pt
+*.pth
+*.pkl
+*.npy
+*.npz
+*.csv
+*.obj
+
+./model
+
 # C extensions
 *.so
 
